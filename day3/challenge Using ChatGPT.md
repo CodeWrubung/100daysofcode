@@ -1,10 +1,14 @@
-Write a Java program that:
-Creates these variables:
-an int for your age
-a double for your height in meters
-a boolean for whether you like coding
-a String for your name
-Prints them all in sentences like this:
+# AboutMe.java 👨‍💻
+
+My Java challenge using variables! 🚀
+
+## 📂 Variables used
+- `String` → Name
+- `int` → Age
+- `double` → Height in meters
+- `boolean` → Do I like coding?
+
+## 🖥️ Program Output
 
 My name is Rubung
 I am 20 years old
